@@ -68,8 +68,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Devraj-cse-gkv/Devraj-cse-gkv/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <!--
