@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DEVRAJ</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer from Bihar, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devraj-cse-gkv&label=Profile%20views&color=0e75b6&style=flat" alt="devraj-cse-gkv" /> </p>
 
