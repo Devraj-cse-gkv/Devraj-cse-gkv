@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devraj-cse-gkv&label=Profile%20views&color=0e75b6&style=flat" alt="devraj-cse-gkv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devraj-cse-gkv" alt="devraj-cse-gkv" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devraj-cse-gkv&theme=onedark" alt="devraj-cse-gkv" /></a> </p>
 
 - 🔭 I’m currently working on [Fullstack webdev](iamdevraj.me)
 
