@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Frontend designing](movies.iamdevraj.me)
 
-- 👨‍💻 All of my projects are available at [myportfolio.iamdevraj.me](myportfolio.iamdevraj.me)
+- 👨‍💻 All of my projects are available at [myportfolio.iamdevraj.me](portfolio.iamdevraj.me)
 
 - 📝 I regularly write articles on [blogs.iamdevraj.me](blogs.iamdevraj.me)
 
